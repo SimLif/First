@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Wow, cool!.
 Amazing.
 Git tracks changes of files.
+How diff works?
